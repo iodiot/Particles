@@ -1,5 +1,4 @@
-Particles
-======
+# Particles
 One more particle manager with different demos. Press space to toggle demos. 
 
 ![Alt text](/Screens/1.png?raw=true "Screenshot")
